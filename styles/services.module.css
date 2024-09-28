@@ -1,0 +1,54 @@
+.services{
+    padding: 100px 10%;
+}
+.services h3{
+    color: #FF4D01;
+}
+.services_flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.services_flex h1{
+    font-size: 36px;
+    line-height: 40px;
+    width: 280px;
+}
+.services_flex div{
+    display: flex;
+    gap: 20px;
+}
+.services_btn1{
+    color: white;
+    background: #FF4D01;
+    padding: 11px 21px;
+}
+.services_btn2{
+    border: 2px solid;
+    padding: 10px 20px;
+}
+.services_informs{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.services_inform{
+    width: 30%;
+}
+.services_inform img{
+    width: 100px;
+    height: 100px;
+}
+.services_inform h4{
+    font-size: 24px;
+}
+.services_to_flex{
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.services_rectangle{
+    width: 30px;
+    height: 30px;
+    background: black;
+}

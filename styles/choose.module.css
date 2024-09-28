@@ -1,0 +1,34 @@
+.choose{
+    padding: 50px 10%;
+}
+.choose1_texts{
+    padding-left: 10%;
+}
+.choose1_texts h3{
+    font-size: 18px;
+    font-weight: 500;
+    color: #FF4D01;
+}
+.choose1_texts h1{
+    padding-right: 40%;
+    line-height: 45px;
+    font-size: 42px;
+}
+.choose1_texts p{
+    padding: 20px 0px;
+}
+.choose2_texts{
+    padding-right: 10%;
+}
+.choose2_texts h1{
+    padding-right: 40%;
+    line-height: 45px;
+    font-size: 42px;
+}
+.choose2_texts h4{
+    padding: 20px 0px;
+}
+.choose_element{
+    font-size: 32px;
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+.about{
+    padding: 50px 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about_left{
+    width: 45%;
+}
+.about_left img{
+    padding: 50px 50px 50px 0px;
+}
+.about_right{
+    width: 55%;
+}
+.about_right h3{
+    color: #FF4D01;
+}
+.about_right h1{
+    width: 70%;
+    font-size: 42px;
+    line-height: 45px;
+}
+.about_right h5{
+    margin: 20px 0px;
+    color: #605E5D;
+}
+.about_informs{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.about_informs h4{
+    font-size: 56px;
+}
+.about_informs span{
+    color: #FF4D01;
+}
+.about_right button{
+    margin-top: 30px;
+    padding: 15px 20px;
+    border: 2px solid;
+}
